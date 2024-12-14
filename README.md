@@ -1,1 +1,1 @@
- "Mastering solidity smart contract development"
+Mastering solidity smart contract development
